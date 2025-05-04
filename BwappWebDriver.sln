@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BwappWebDriver", "Bwapp\BwappWebDriver.csproj", "{9CE489A4-5DA6-48D2-861A-0BDE68C0E256}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BwappWebDriver", "Bwapp\BwappWebDriver.csproj", "{9CE489A4-5DA6-48D2-861A-0BDE68C0E256}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReqnrollProjectSnake", "ReqnrollProjectSnake\ReqnrollProjectSnake.csproj", "{45E5404D-99A0-4E4F-B12D-35083F2B0F8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReqnrollProjectEvalBDD", "ReqnrollProjectSnake\ReqnrollProjectEvalBDD.csproj", "{45E5404D-99A0-4E4F-B12D-35083F2B0F8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

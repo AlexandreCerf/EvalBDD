@@ -10,7 +10,7 @@
 // ------------------------------------------------------------------------------
 #region Designer generated code
 #pragma warning disable
-namespace ReqnrollProjectSnake.Features.SecurityFeatures
+namespace ReqnrollProjectEvalBDD.Features.SecurityFeatures
 {
     using Reqnroll;
     using System;
